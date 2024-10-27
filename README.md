@@ -1,4 +1,4 @@
-# BTCPrediction
+# BTC Prediction
 This file creating prediction using python
 
 # Prediction
