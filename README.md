@@ -2,4 +2,4 @@
 This file creating prediction using python
 
 # Prediction
-![prediction](https://github.com/user-attachments/assets/9dba4b5e-02af-44b8-b7ae-a4c11189e358)
+![Screenshot 2025-02-11 192044](https://github.com/user-attachments/assets/a4d9b8cf-7321-4f59-be3c-43a0aec1d334)
